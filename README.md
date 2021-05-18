@@ -27,4 +27,4 @@ DYNAMIC_TEMPLATE_ID=<YOUR DYNAMIC TEMPLATE ID HERE>
    `source ./venv/bin/activate`
 5. Install packages
    `pip install -r requirements.txt`
-6. Run the desired example (e.g. `python send-basic.py`)
+6. Run the desired example (e.g. `python examples-python/send-basic.py`)
