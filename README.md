@@ -1,4 +1,6 @@
-# sendgrid-examples
+# Sendgrid Python Examples
+
+[Check out the Blog Post](https://medium.com/@programmer-tutor/python-sendgrid-unsubscribe-groups-and-dynamic-templates-cae95a63c0cd)
 
 ## Set up your SendGrid account
 
